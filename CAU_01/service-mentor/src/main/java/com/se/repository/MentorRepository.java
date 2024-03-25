@@ -8,4 +8,3 @@ import com.se.entity.Mentor;
 @Repository
 public interface MentorRepository extends JpaRepository<Mentor, Long>{
 }
-//finish
